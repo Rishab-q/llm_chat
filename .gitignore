@@ -1,5 +1,5 @@
 test.db
 .env
 __pycache__
-dist/
-node_modules/
+frontend/dist/
+frontend/node_modules/
