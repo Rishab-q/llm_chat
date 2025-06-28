@@ -46,7 +46,17 @@ On **startup**, the app:
 These are integrated via LlamaIndex to provide context-aware document Q&A functionality.
 
 ---
+## 🔧 Improvements
 
+- 🧠 **Integrate ChromaDB for persistent vector storage**  
+  Instead of using in-memory or local index storage, switching to [ChromaDB](https://www.trychroma.com/) can:
+  - Enable persistent and scalable vector storage
+  - Improve query performance for larger document sets
+  - Simplify retrieval across sessions or deployments
+  - Lay the foundation for multi-user and multi-document querying
+
+  ---
+  
 ## 🧱 Architecture Overview
 
 ```txt
