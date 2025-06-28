@@ -1,0 +1,7 @@
+fastapi==0.115.14
+fitz==0.0.1.dev2
+llama_index==0.12.44
+python-dotenv==1.1.1
+regex==2024.11.6
+SQLAlchemy==2.0.41
+sympy==1.13.1
