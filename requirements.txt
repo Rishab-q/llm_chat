@@ -1,5 +1,5 @@
 fastapi==0.115.14
-PyMuPDF==1.22.5
+PyMuPDF==1.23.10
 llama_index==0.12.44
 python-dotenv==1.1.1
 regex==2024.11.6
@@ -7,3 +7,5 @@ SQLAlchemy==2.0.41
 sympy==1.13.1
 uvicorn[standard]==0.29.0
 psycopg2-binary
+llama-index-llms-azure-openai
+llama-index-embeddings-azure-openai
