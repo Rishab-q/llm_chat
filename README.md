@@ -50,7 +50,7 @@ These are integrated via LlamaIndex to provide context-aware document Q&A functi
 ## 🧱 Architecture Overview
 
 ```txt
-[Frontend: React + Clerk]
+[Frontend: React]
        |
        v
 [FastAPI Backend]
