@@ -1,5 +1,5 @@
 fastapi==0.115.14
-PyMuPDF==1.23.22
+PyMuPDF==1.22.5
 llama_index==0.12.44
 python-dotenv==1.1.1
 regex==2024.11.6
